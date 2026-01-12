@@ -1,0 +1,76 @@
+Name,Type,Mass_Earth,Radius_Earth,Orbital_Period_Days,Distance_AU,Surface_Temp_K,Gravity_g,Atmosphere_Type,Habitability_Class
+Earth,Rocky,1.00,1.00,365.25,1.00,288,1.00,Nitrogen-Oxygen,Habitable
+Mars,Rocky,0.11,0.53,687.00,1.52,210,0.38,Carbon Dioxide,Conditionally Habitable
+Venus,Rocky,0.81,0.95,224.70,0.72,737,0.90,Carbon Dioxide,Not Habitable
+Mercury,Rocky,0.06,0.38,88.00,0.39,440,0.38,None,Not Habitable
+Jupiter,Gas Giant,317.80,11.20,4333.00,5.20,165,2.53,Hydrogen-Helium,Not Habitable
+Saturn,Gas Giant,95.20,9.45,10759.00,9.58,134,1.07,Hydrogen-Helium,Not Habitable
+Uranus,Ice Giant,14.50,4.00,30687.00,19.20,76,0.89,Hydrogen-Helium-Methane,Not Habitable
+Neptune,Ice Giant,17.10,3.88,60190.00,30.05,72,1.14,Hydrogen-Helium-Methane,Not Habitable
+Moon,Moon,0.01,0.27,27.30,1.00,220,0.16,None,Not Habitable
+Titan,Moon,0.02,0.40,16.00,9.58,94,0.14,Nitrogen-Methane,Conditionally Habitable
+Europa,Moon,0.008,0.24,3.55,5.20,102,0.13,Trace Oxygen,Conditionally Habitable
+Kepler-186f,Rocky,1.11,1.17,129.90,0.43,220,1.10,Unknown,Habitable
+Proxima Centauri b,Rocky,1.27,1.10,11.20,0.05,234,1.10,Unknown,Habitable
+TRAPPIST-1e,Rocky,0.62,0.92,6.10,0.02,246,0.70,Unknown,Habitable
+TRAPPIST-1f,Rocky,0.68,1.04,9.20,0.03,219,0.70,Unknown,Conditionally Habitable
+Gliese 581g,Rocky,3.10,1.50,37.00,0.15,250,1.40,Unknown,Habitable
+Kepler-452b,Rocky,5.00,1.60,385.00,1.05,265,2.00,Unknown,Habitable
+Kepler-62f,Rocky,2.80,1.40,267.00,0.71,208,1.30,Unknown,Habitable
+Kepler-442b,Rocky,2.30,1.34,112.00,0.40,233,1.30,Unknown,Habitable
+LHS 1140b,Rocky,6.98,1.70,24.70,0.09,230,2.40,Unknown,Habitable
+Ross 128 b,Rocky,1.35,1.10,9.90,0.05,280,1.10,Unknown,Habitable
+Teegarden b,Rocky,1.05,1.02,4.90,0.02,260,1.00,Unknown,Habitable
+Kepler-1649c,Rocky,1.06,1.06,19.50,0.06,234,1.00,Unknown,Habitable
+TOI-700 d,Rocky,1.72,1.19,37.40,0.16,268,1.20,Unknown,Habitable
+K2-18b,Rocky,8.60,2.60,33.00,0.14,265,1.50,Unknown,Habitable
+Kepler-22b,Rocky,9.10,2.40,290.00,0.85,262,2.00,Unknown,Conditionally Habitable
+Gliese 667 Cc,Rocky,3.80,1.50,28.00,0.12,277,1.40,Unknown,Habitable
+Kepler-1229b,Rocky,2.54,1.40,87.00,0.30,213,1.30,Unknown,Conditionally Habitable
+Kepler-69c,Rocky,2.15,1.70,242.00,0.64,275,1.50,Unknown,Conditionally Habitable
+Kepler-62e,Rocky,4.50,1.60,122.00,0.42,270,1.50,Unknown,Conditionally Habitable
+Kepler-438b,Rocky,1.27,1.12,35.20,0.16,276,1.10,Unknown,Habitable
+Kepler-296e,Rocky,1.50,1.50,34.00,0.17,250,1.20,Unknown,Habitable
+Kepler-296f,Rocky,1.60,1.60,63.00,0.26,225,1.20,Unknown,Habitable
+GJ 357 d,Rocky,6.10,1.70,71.00,0.20,220,1.60,Unknown,Conditionally Habitable
+Wolf 1061c,Rocky,3.40,1.60,17.90,0.08,223,1.60,Unknown,Conditionally Habitable
+55 Cancri e,Rocky,8.08,1.88,0.74,0.01,1950,2.00,Carbon-Rich,Not Habitable
+WASP-12b,Hot Jupiter,445.00,20.00,1.09,0.02,2500,0.50,Hydrogen-Helium,Not Habitable
+HD 209458 b,Hot Jupiter,220.00,15.00,3.50,0.04,1130,0.40,Hydrogen-Helium,Not Habitable
+Kepler-10b,Rocky,3.33,1.47,0.84,0.01,2130,1.80,None,Not Habitable
+Corot-7b,Rocky,4.80,1.58,0.85,0.01,1760,1.90,None,Not Habitable
+LHS 3844 b,Rocky,2.25,1.32,0.46,0.006,805,1.50,None,Not Habitable
+Kepler-7b,Gas Giant,137.00,18.00,4.89,0.06,1600,0.30,Hydrogen-Helium,Not Habitable
+Tres-2b,Gas Giant,360.00,14.00,2.47,0.03,1400,1.80,Hydrogen-Helium,Not Habitable
+WASP-17b,Gas Giant,154.00,22.00,3.74,0.05,1700,0.30,Hydrogen-Helium,Not Habitable
+HAT-P-1b,Gas Giant,166.00,15.00,4.47,0.05,1300,0.70,Hydrogen-Helium,Not Habitable
+Gliese 436 b,Neptune-like,22.10,4.33,2.64,0.02,712,1.18,Hydrogen-Helium,Not Habitable
+Gliese 1214 b,Super-Earth,6.55,2.68,1.58,0.01,540,0.91,Water-Vapor,Not Habitable
+K2-141b,Rocky,5.08,1.51,0.28,0.007,3000,2.20,Magma,Not Habitable
+Kepler-78b,Rocky,1.69,1.12,0.35,0.01,2300,1.30,Lava,Not Habitable
+Kepler-13b,Gas Giant,2650.00,16.00,1.76,0.03,3200,10.00,Hydrogen-Helium,Not Habitable
+Ogale-2005-BLG-390Lb,Ice Giant,5.50,2.50,3500.00,2.60,50,0.90,Frozen,Not Habitable
+Gliese 163 c,Rocky,6.80,1.80,25.60,0.12,290,2.00,Unknown,Conditionally Habitable
+HD 40307 g,Rocky,7.10,2.00,197.80,0.60,227,1.80,Unknown,Habitable
+Kepler-61b,Rocky,2.15,1.50,59.87,0.27,273,0.90,Unknown,Conditionally Habitable
+Kepler-174d,Rocky,2.19,1.70,247.35,0.67,230,0.80,Unknown,Conditionally Habitable
+Gliese 832 c,Rocky,5.40,1.60,35.68,0.16,253,1.70,Unknown,Habitable
+EPIC 201367065 d,Rocky,0.80,1.00,45.00,0.15,240,0.80,Unknown,Habitable
+K2-72e,Rocky,2.20,1.30,24.16,0.10,260,1.30,Unknown,Habitable
+K2-3d,Rocky,2.10,1.50,44.56,0.20,280,0.90,Unknown,Habitable
+L 98-59 d,Rocky,2.25,1.50,7.45,0.05,285,1.00,Unknown,Habitable
+Kepler-1652b,Rocky,1.70,1.50,38.10,0.16,268,0.80,Unknown,Habitable
+Kepler-1410b,Rocky,1.90,1.40,60.80,0.23,260,1.00,Unknown,Habitable
+Kepler-1544b,Rocky,2.00,1.60,168.80,0.54,248,0.80,Unknown,Habitable
+Kepler-283c,Rocky,1.80,1.50,92.70,0.33,238,0.90,Unknown,Habitable
+TOI-270 d,Sub-Neptune,4.78,2.13,11.40,0.07,354,1.05,Hydrogen-Helium,Not Habitable
+HD 85512 b,Rocky,3.60,1.40,58.43,0.26,298,1.40,Unknown,Conditionally Habitable
+Gliese 3293 c,Rocky,3.20,1.50,48.13,0.18,255,1.40,Unknown,Habitable
+Kepler-1638b,Rocky,8.00,1.87,259.34,0.73,276,2.20,Unknown,Habitable
+Kepler-452b,Rocky,5.00,1.63,384.84,1.05,265,1.88,Unknown,Habitable
+Kepler-1606b,Rocky,3.00,1.60,196.43,0.64,250,1.20,Unknown,Habitable
+Kepler-1090b,Rocky,2.50,1.70,198.66,0.65,260,0.90,Unknown,Habitable
+K2-9b,Rocky,2.00,1.30,18.44,0.09,350,1.20,Unknown,Conditionally Habitable
+HIP 12961 b,Gas Giant,270.00,10.00,57.43,0.25,400,2.50,Hydrogen-Helium,Not Habitable
+HD 147513 b,Gas Giant,390.00,11.00,528.40,1.32,180,3.30,Hydrogen-Helium,Not Habitable
+HD 190360 b,Gas Giant,470.00,12.00,2891.00,3.92,110,3.20,Hydrogen-Helium,Not Habitable
